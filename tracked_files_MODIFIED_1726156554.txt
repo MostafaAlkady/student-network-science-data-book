@@ -1,10 +1,8 @@
 .gitignore
 Problem155.ipynb
-Problem155_MODIFIED_1726152501.ipynb
 class_00_github_computing_setup.ipynb
 class_01_python_refresher.ipynb
 class_02_networkx1.ipynb
-class_02_networkx1_MODIFIED_1726152652.ipynb
 class_03_networkx2.ipynb
 data/Fish.csv
 data/Florida-bay-meta.csv
@@ -24,7 +22,6 @@ data/paris/network_walk.csv
 data/polblogs_edges_class.tsv
 data/polblogs_nodes_class.tsv
 data/stopwords-en.txt
-diff.diff
 git_fixer.py
 git_fixer2.py
 images/BFS.gif
@@ -51,7 +48,6 @@ images/ood_jupyter.png
 images/ood_launch_jupyter.png
 images/ood_terminal_screenshot.png
 images/pdfs/PolBlogs_network.pdf
-images/pdfs/PolBlogs_network_MODIFIED_1726152501.pdf
 images/pdfs/class_01_figure1.pdf
 images/pdfs/class_01_figure2.pdf
 images/pdfs/class_01_figure3.pdf
@@ -61,7 +57,6 @@ images/pdfs/class_01_figure6.pdf
 images/pdfs/class_01_figure7.pdf
 images/pdfs/class_01_figure8.pdf
 images/pngs/PolBlogs_network.png
-images/pngs/PolBlogs_network_MODIFIED_1726152502.png
 images/pngs/class_01_figure1.png
 images/pngs/class_01_figure2.png
 images/pngs/class_01_figure3.png
@@ -74,6 +69,4 @@ images/schedule.jpg
 images/sync_fork.png
 images/whale.jpg
 intro.md
-mod.txt
 requirements.txt
-tracked_files.txt
