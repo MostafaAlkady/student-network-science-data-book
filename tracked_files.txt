@@ -59,6 +59,7 @@ class_04_distributions_MODIFIED_1726757677.ipynb
 class_05_scraping1.ipynb
 class_06_scraping2.ipynb
 class_07_bigdata1.ipynb
+commit_us.txt
 config_git_fixer.yml
 data/Fish.csv
 data/Florida-bay-meta.csv

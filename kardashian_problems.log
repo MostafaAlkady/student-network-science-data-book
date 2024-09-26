@@ -1,0 +1,12 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/09/kendall-jenner-pulled-over-beverly-hills-cop-hailey-bieber-running-stop-sign/ HTTP/1.1" 200 36883
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/01/el-novio-de-sabrina-carpenter-barry-keoghan-reacciona-a-su-sexy-sesion-para-skims/ HTTP/1.1" 200 40119
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/31/kim-kardashian-kanye-west-dine-together-north-daughter-vultures-shirt/ HTTP/1.1" 200 43468
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/14/camron-oj-simpson-caitlyn-jenner-good-riddance-princess-diana-blast-dead-dies/ HTTP/1.1" 200 40271
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/22/june-gloom-stars-in-gloomy-weather-throwin-shade-all-over-hollywood/ HTTP/1.1" 200 33001
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/10/kanye-west-es-demandado-por-agresion-y-lesiones-por-un-hombre-que-le-pidio-un-autografo/ HTTP/1.1" 200 40080
