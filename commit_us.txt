@@ -1,3 +1,1 @@
-class06-scraping_exercise.py
-kardashian_problems.log
-lists_of_people.pkl
+assignments/Mohamed_with_feedback.pdf

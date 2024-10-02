@@ -36,6 +36,11 @@ assignments/Untitled.ipynb
 assignments/Untitled_MODIFIED_1726668149.ipynb
 assignments/Untitled_MODIFIED_1726668291.ipynb
 assignments/Untitled_MODIFIED_1726757215.ipynb
+assignments/assignment01.ipynb
+assignments/bio-dmela/bio-dmela.mtx
+assignments/bio-dmela/readme.html
+assignments/bio-dmela/readme.txt
+class06-scraping_exercise.py
 class_00_github_computing_setup.ipynb
 class_01_python_refresher.ipynb
 class_02_networkx1.ipynb
@@ -167,6 +172,8 @@ images/schedule.jpg
 images/sync_fork.png
 images/whale.jpg
 intro.md
+kardashian_problems.log
+lists_of_people.pkl
 mod.txt
 mod_MODIFIED_1726156554.txt
 requirements.txt
