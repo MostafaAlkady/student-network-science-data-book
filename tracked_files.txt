@@ -32,6 +32,7 @@ archive/requirements.txt
 archive/tracked_files_MODIFIED_1726156554.txt
 archive/tracked_files_MODIFIED_1726156554_MODIFIED_1726668292.txt
 archive/tracked_files_MODIFIED_1726668292.txt
+assignments/Mohamed_with_feedback.pdf
 assignments/Untitled.ipynb
 assignments/Untitled_MODIFIED_1726668149.ipynb
 assignments/Untitled_MODIFIED_1726668291.ipynb
@@ -64,6 +65,8 @@ class_04_distributions_MODIFIED_1726757677.ipynb
 class_05_scraping1.ipynb
 class_06_scraping2.ipynb
 class_07_bigdata1.ipynb
+class_08_datascience1.ipynb
+class_09_datascience2.ipynb
 commit_us.txt
 config_git_fixer.yml
 data/Fish.csv
@@ -84,6 +87,11 @@ data/paris/network_walk.csv
 data/polblogs_edges_class.tsv
 data/polblogs_nodes_class.tsv
 data/stopwords-en.txt
+data/tsp/berlin52.gml
+data/tsp/brazil58.gml
+data/tsp/brg180.gml
+data/tsp/gr229.gml
+data/tsp/pr439.gml
 diff.diff
 diff_MODIFIED_1726156553.diff
 diff_MODIFIED_1726668291.diff
